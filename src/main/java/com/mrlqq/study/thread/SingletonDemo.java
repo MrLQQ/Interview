@@ -1,7 +1,5 @@
 package com.mrlqq.study.thread;
 
-import java.text.SimpleDateFormat;
-
 /**
  * @projectName: Interview
  * @package: com.mrlqq.study.thread
